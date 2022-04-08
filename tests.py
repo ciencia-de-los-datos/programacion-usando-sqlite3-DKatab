@@ -2,7 +2,6 @@
 Calificación del laboratorio
 -----------------------------------------------------------------------------------------
 """
-!pip install pandas
 import sqlite3
 import sys
 
