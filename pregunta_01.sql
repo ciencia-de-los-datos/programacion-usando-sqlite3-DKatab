@@ -16,5 +16,9 @@
 --  0  15137.63
 
 --  >>> Escriba su codigo a partir de este punto <<<
+    import sqlite3
+    import sys
+    import pandas as pd
+    
     SELECT SUM(c12) FROM tbl1
 
